@@ -12,6 +12,10 @@ class Main{
 
        //This declares and initializes all integer variables
 
+       // arata foarte bine
+       // pentru min si max puteai sa folosesti -1 si 11 pt ca ne intereseaza note din acest interval dar e foarte bine cum ai facut si asa
+
+
        int num, count =0, sum = 0, max = Integer.MIN_VALUE; int min = Integer.MAX_VALUE;
 
        //This declares and initializes the average variable
